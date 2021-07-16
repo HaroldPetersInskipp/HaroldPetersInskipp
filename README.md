@@ -1,7 +1,7 @@
 # Freelance Developer and GFX Artist. 
 I take on development projects and am currently taking commissions to create sprites, pixel-art, retro style graphics, and animations. I can be reached at [Email](mailto:kalordrol2000@yahoo.com)
 
-## A fun new 🛠 project 🛠 is being worked on in secret, often in the dark. A demo will be released for free soon.
+## A fun new 🛠 project 🛠 is being worked on in secret, often in the dark. A demo is available now, install from **https://github.com/HaroldPetersInskipp/GameDemo**.
 
  - If you enjoy any of my works or want to contribute to future projects you can show support by ❤ donating ❤
  

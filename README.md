@@ -15,7 +15,7 @@ I take on development projects and am currently taking commissions to create spr
 
 ![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 
-## A fun new 🛠 project 🛠 is being worked on in secret, often in the dark. A demo is available now, install from 📁[HERE](https://github.com/HaroldPetersInskipp/GameDemo)📁.
+## A fun new 🛠 project 🛠 is being worked on in secret, often in the dark. A demo is available that you can download from 📁[HERE](https://github.com/HaroldPetersInskipp/GameDemo)📁.
 
  - If you enjoy any of my works or want to contribute to future projects you can show support by ❤ donating ❤
  

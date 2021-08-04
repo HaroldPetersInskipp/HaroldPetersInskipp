@@ -1,7 +1,7 @@
 # Freelance Developer and GFX Artist. 
 I take on development projects and am currently taking commissions to create sprites, pixel-art, retro style graphics, and animations. I can be reached at [Email](mailto:kalordrol2000@yahoo.com)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaroldPetersInskipp&langs_count=5)](https://github.com/HaroldPetersInskipp/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaroldPetersInskipp&langs_count=5&theme=dark)](https://github.com/HaroldPetersInskipp/github-readme-stats)
 
  - I have experience with the following
 

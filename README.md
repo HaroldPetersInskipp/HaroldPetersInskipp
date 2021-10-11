@@ -1,5 +1,5 @@
 # Freelance Developer and GFX Artist. 
-I take on development projects and am currently taking commissions to create sprites, pixel-art, retro style graphics, and animations. I can be reached at [Email](mailto:kalordrol2000@yahoo.com)
+I take on development projects and am currently taking commissions to create sprites, pixel-art, retro style graphics, and animations. I can be reached at [Email](mailto:HaroldPetersInskipp@gmail.com)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaroldPetersInskipp&langs_count=5&theme=dark)
 

@@ -1,6 +1,8 @@
 # Freelance Developer and GFX Artist. 
 I take on development projects and am currently taking commissions to create sprites, pixel-art, retro style graphics, and animations. I can be reached at [Email](mailto:HaroldPetersInskipp@gmail.com)
 
+<img align="right" alt="GIF" height="128px" src="Cactuar.gif" />
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaroldPetersInskipp&langs_count=5&theme=dark)
 
  - I have experience with the following
@@ -22,4 +24,4 @@ I take on development projects and am currently taking commissions to create spr
 [<img src="btc.svg">](https://en.cryptobadges.io/donate/3Qic3KPrFyWok97GGDkkG8pAcL1H5dGHza)
 
 
-[<img src="eth.svg">](https://en.cryptobadges.io/badge/big/0xc84c8663Ca4221C86fF057BF02D0104Da3e953F5)
+[<img align="right" src="eth.svg">](https://en.cryptobadges.io/badge/big/0xc84c8663Ca4221C86fF057BF02D0104Da3e953F5)

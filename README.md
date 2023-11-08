@@ -28,10 +28,3 @@ I take on development projects and am currently taking commissions to create spr
 [![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/en-us/windows)[![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/)[![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/)[![IOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/ios/)[![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-CD2355?style=for-the-badge&logo=Raspberry-Pi)](https://www.raspberrypi.com/software/operating-systems/)[![ESP Devices](https://img.shields.io/badge/esp8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white)](https://www.espressif.com/en)
 
 ## A fun new 🛠 project 🛠 is being worked on in secret, often in the dark. A demo is available that you can download from [📁HERE📁](https://github.com/HaroldPetersInskipp/GameDemo)
-
- - If you enjoy any of my works or want to contribute to future projects you can show support by ❤ donating ❤
-
-[<img src="btc.svg">](https://en.cryptobadges.io/donate/3Qic3KPrFyWok97GGDkkG8pAcL1H5dGHza)
-
-
-[<img src="eth.svg">](https://en.cryptobadges.io/badge/big/0xc84c8663Ca4221C86fF057BF02D0104Da3e953F5)

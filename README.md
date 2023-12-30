@@ -3,7 +3,9 @@ I take on development projects and am currently taking commissions to create spr
 
 <img align="right" alt="GIF" height="128px" src="Cactuar.gif" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HaroldPetersInskipp&langs_count=5&theme=dark)
+<a href="https://github.com/HaroldPetersInskipp">
+  <img style="margin: 0 1rem" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HaroldPetersInskipp&langs_count=8&layout=compact&theme=tokyonight" />
+</a>
 
 ## I have experience with the following
 
